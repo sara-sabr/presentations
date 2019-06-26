@@ -26,16 +26,16 @@ This will be done through an open collaborative approach that will further ESDC'
 
 ### Mandate 1/4
 
-- Manage IT Strategic Evolution Fund 
+- Manage IT Strategic Evolution Fund
 - Full ownership and governance of projects operating against the IT Strategic Evolution fund
-- Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery 
+- Provide recommendations to senior management on how IT can be leveraged to improve ESDC's mandate delivery
 
 ------
 
 ### Mandate 2/4
 
-- Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations 
-- Permeate and enforce modern IT practices and processes 
+- Conduct both inward facing and external research in order to provide evidence based aforementioned recommendations
+- Permeate and enforce modern IT practices and processes
 - Provide strategic direction to IITB's initiatives in order to maximize their impacts and transition IITB into a holistic service-oriented organization
 
 ------
@@ -67,19 +67,19 @@ All efforts must deliver measurable impacts. Implement strategies -- do not be a
 
 ### Work collaboratively
 
-Collaborate with anyone and everyone who can _add value_. This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments. 
+Collaborate with anyone and everyone who can _add value_. This includes, but is not limited to, all Canadians, all levels of government, all departments, all private sector organizations, and all governments.
 
 ------
 
 ### Continuous learning
 
-Learning must be a core part of daily activities to ensure up to date, modern, and well researched direction and strategy is provided to guide our actions. 
+Learning must be a core part of daily activities to ensure up to date, modern, and well researched direction and strategy is provided to guide our actions.
 
 ------
 
 ### Lead by Example
 
-By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced. 
+By using the approaches and technologies we champion, we will be able to better respond to, and anticipate, the challenges that will be faced.
 
 ---
 
@@ -88,13 +88,15 @@ By using the approaches and technologies we champion, we will be able to better 
 ------
 
 Demonstrations **through action** of cutting edge approaches and methods. For example:
+
 - Value added of GCCode as an official version control standard for the GC
 
 ------
 
 IT Strategies. For example:
+
 - Creation and implementation of Innovation Hubs
-- Increase rate of Solution Delivery 
+- Increase rate of Solution Delivery
 - Vendor Lock-in mitigation
 - Scale innovation
 - Implement business use cases of AI within ESDC
@@ -104,7 +106,7 @@ IT Strategies. For example:
  IT RoadMaps. For example:
 
 - Maximizing innovation efforts by taking [the 11 Tips for Pitching Innovation in Government](https://medium.com/gc-entrepreneur/11-tips-for-pitching-innovation-in-government-9fceac5a3c9)
-- DevOps Implementation 
+- DevOps Implementation
 - 3 year IITB service modernization plan
 - 5 year IITB service modernization plan
 - Implement bi-modal governance
@@ -119,6 +121,7 @@ Reports. For example:
 ------
 
 Guidance, advices, and awareness via:
+
 - Whitepapers
 - Presentations
 - Case Studies
